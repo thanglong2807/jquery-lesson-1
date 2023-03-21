@@ -1,0 +1,41 @@
+body {
+  background-color: blueviolet;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.show-item {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: cadetblue;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: cadetblue;
+}
+.rectangle {
+  width: 400px;
+  height: 200px;
+  background-color: cadetblue;
+}
+.hidden {
+  display: none;
+}
+.show {
+  display: block;
+}

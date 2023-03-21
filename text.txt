@@ -1,0 +1,5 @@
+$(selector).tenFucion()
+
+$ là từ khóa => bắt đầu câu lệnh jquery đề bắt đầu  = $
+(selector) là tên bộ chọn
+tên function ==> tên hàm trong jquery
