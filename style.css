@@ -15,7 +15,11 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+.handle{
+      display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
 .circle {
   width: 200px;
   height: 200px;
